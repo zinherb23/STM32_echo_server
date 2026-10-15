@@ -25,3 +25,6 @@ Thumbs.db
 # Private files (kept local only)
 MQTT_README.md
 mosquitto.conf
+
+# Debug launch config (IDE recreates it)
+*.launch
