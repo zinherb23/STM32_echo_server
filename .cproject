@@ -49,9 +49,9 @@
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="../Port/lwip/include"/>
-									<listOptionValue builtIn="false" value="../../support/stm32-mw-lwip-master/stm32-mw-lwip-master/src/include"/>
-									<listOptionValue builtIn="false" value="../../support/FreeRTOS-Kernel-main/FreeRTOS-Kernel-main/include"/>
-									<listOptionValue builtIn="false" value="../../support/FreeRTOS-Kernel-main/FreeRTOS-Kernel-main/portable/GCC/ARM_CM4F"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/lwip/src/include"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/FreeRTOS-Kernel/include"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/FreeRTOS-Kernel/portable/GCC/ARM_CM4F"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1461201597" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -78,10 +78,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="LwIP"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="RTOS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ThirdParty"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -131,9 +130,9 @@
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="../Port/lwip/include"/>
-									<listOptionValue builtIn="false" value="../../support/stm32-mw-lwip-master/stm32-mw-lwip-master/src/include"/>
-									<listOptionValue builtIn="false" value="../../support/FreeRTOS-Kernel-main/FreeRTOS-Kernel-main/include"/>
-									<listOptionValue builtIn="false" value="../../support/FreeRTOS-Kernel-main/FreeRTOS-Kernel-main/portable/GCC/ARM_CM4F"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/lwip/src/include"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/FreeRTOS-Kernel/include"/>
+									<listOptionValue builtIn="false" value="../ThirdParty/FreeRTOS-Kernel/portable/GCC/ARM_CM4F"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1071203193" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -160,10 +159,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="LwIP"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="RTOS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ThirdParty"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
